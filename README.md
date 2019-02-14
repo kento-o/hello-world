@@ -1,2 +1,10 @@
 # hello-world
-Just another repository
+
+Hi!
+
+kento-o here, I like video-game.
+I like Japanese-animation.
+Otherwise, Overseas-animation.
+
+
+
